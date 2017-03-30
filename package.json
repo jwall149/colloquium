@@ -1,0 +1,26 @@
+{
+  "name": "colloquium",
+  "version": "1.0.0",
+  "description": "Lorem ipsum Consectetur cupidatat non cillum veniam sunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwall149/colloquium.git"
+  },
+  "author": "Tonny Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwall149/colloquium/issues"
+  },
+  "homepage": "https://github.com/jwall149/colloquium#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
